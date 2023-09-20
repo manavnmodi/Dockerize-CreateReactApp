@@ -1,4 +1,4 @@
-# CreateReactApp  DockerImage
+# CreateReactApp-Dockerrize
 
 Docker image of CreateReactApp boilerplate code. 
 
